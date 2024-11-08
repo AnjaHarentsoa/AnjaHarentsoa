@@ -6,7 +6,7 @@
 
 <p>Just a cutie pie making magic with code.🪄</p>
 
-<p>I’m passionate about blending <b>logic<b> and <b>creativity<b> to unlock the full potential of artificial intelligence – every solved problem feels like a touch of magic.❤️</p>
+<p>I’m passionate about blending <b>logic</b> and <b>creativity</b> to unlock the full potential of artificial intelligence – every solved problem feels like a touch of magic.❤️</p>
 
 <hr>
 
