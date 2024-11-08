@@ -6,15 +6,18 @@
 
 <p>Just a cutie pie making magic with code.🪄</p>
 
-<p>I’m passionate about blending logic and creativity to unlock the full potential of artificial intelligence – every solved problem feels like a touch of magic.</p>
+<p>I’m passionate about blending <br>logic<br> and <br>creativity<br> to unlock the full potential of artificial intelligence – every solved problem feels like a touch of magic.</p>
 
 <hr>
 
 <p>📬 Let's Connect:</p>
 
-<div >
+<div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/anja-harentsoa-aa321b28a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:anjaharentsoa921@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </div>
