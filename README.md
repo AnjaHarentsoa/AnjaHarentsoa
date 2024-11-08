@@ -7,6 +7,6 @@ I’m passionate about blending logic and creativity to unlock the full potentia
 ---
 
 📬 Let's Connect:  
-- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/anja-harentsoa-aa321b28a)  
-- **Email:** [anjaharentsoa921@gmail.com] 
+- **LinkedIn:** [My LinkedIn](in/anja-harentsoa-aa321b28a)  
+- **Email:** [Anja_Harentsoa](anjaharentsoa921@gmail.com)
 
