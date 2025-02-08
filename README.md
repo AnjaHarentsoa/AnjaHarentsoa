@@ -1,7 +1,8 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=33FF33&center=true&vCenter=true&width=435&lines=Welcome+to+my+froggy+world" alt="Typing SVG"/>
+    <b><span style="color: #33FF33;">Hey youuu! Welcome to my froggy froggy world. 🐸</span></b>
     </h1>
+
 </div>
 
 <p>I'm <b>Anja</b>, a third-year software engineering student. </p>
